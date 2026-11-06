@@ -1,1 +1,1 @@
-# Exquisite-Corpse
+# ExquisiteCorpse
